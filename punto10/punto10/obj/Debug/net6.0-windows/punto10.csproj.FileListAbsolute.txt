@@ -1,0 +1,17 @@
+C:\Users\Axel\source\repos\punto10\punto10\bin\Debug\net6.0-windows\punto10.exe
+C:\Users\Axel\source\repos\punto10\punto10\bin\Debug\net6.0-windows\punto10.deps.json
+C:\Users\Axel\source\repos\punto10\punto10\bin\Debug\net6.0-windows\punto10.runtimeconfig.json
+C:\Users\Axel\source\repos\punto10\punto10\bin\Debug\net6.0-windows\punto10.dll
+C:\Users\Axel\source\repos\punto10\punto10\bin\Debug\net6.0-windows\punto10.pdb
+C:\Users\Axel\source\repos\punto10\punto10\obj\Debug\net6.0-windows\punto10.csproj.AssemblyReference.cache
+C:\Users\Axel\source\repos\punto10\punto10\obj\Debug\net6.0-windows\punto10.Form1.resources
+C:\Users\Axel\source\repos\punto10\punto10\obj\Debug\net6.0-windows\punto10.csproj.GenerateResource.cache
+C:\Users\Axel\source\repos\punto10\punto10\obj\Debug\net6.0-windows\punto10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Axel\source\repos\punto10\punto10\obj\Debug\net6.0-windows\punto10.AssemblyInfoInputs.cache
+C:\Users\Axel\source\repos\punto10\punto10\obj\Debug\net6.0-windows\punto10.AssemblyInfo.cs
+C:\Users\Axel\source\repos\punto10\punto10\obj\Debug\net6.0-windows\punto10.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\punto10\punto10\obj\Debug\net6.0-windows\punto10.dll
+C:\Users\Axel\source\repos\punto10\punto10\obj\Debug\net6.0-windows\refint\punto10.dll
+C:\Users\Axel\source\repos\punto10\punto10\obj\Debug\net6.0-windows\punto10.pdb
+C:\Users\Axel\source\repos\punto10\punto10\obj\Debug\net6.0-windows\punto10.genruntimeconfig.cache
+C:\Users\Axel\source\repos\punto10\punto10\obj\Debug\net6.0-windows\ref\punto10.dll
